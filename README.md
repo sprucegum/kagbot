@@ -1,4 +1,4 @@
 kagbot
 ======
 
-An IRC bot to perform King Arthurs Gold related actions.
+An King Arthur's Gold bot that performs differents actions.
